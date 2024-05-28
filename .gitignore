@@ -1,0 +1,10 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables file
+.env
+
+# Optional: If you use any of these files, you might want to ignore them as well
+.DS_Store
+*.log
+*.gz
